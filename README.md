@@ -6,8 +6,9 @@
 
 ## About this fork
 
-Official gem version is not compatibile with redis 4.x. This fork has been created to allow using websocket-rails with more recent version of redis gem.
+The official gem version is not compatibile with redis 4.x. This fork has been created to allow using websocket-rails with more recent version of redis gem.
 
+## Original README below
 
 
 If you haven't done so yet, check out the [Project
